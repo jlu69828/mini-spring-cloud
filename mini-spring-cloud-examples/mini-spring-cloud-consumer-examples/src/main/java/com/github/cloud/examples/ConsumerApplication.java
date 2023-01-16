@@ -20,6 +20,7 @@ import java.util.List;
 /**
  * @author derek(易仁川)
  * @date 2022/3/20
+ * So easy
  */
 @EnableFeignClients
 @SpringBootApplication

@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * 处理注解RibbonClients的配置类
- *
+ * hahahaha
  * @author derek(易仁川)
  * @date 2022/3/22
  */

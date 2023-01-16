@@ -4,7 +4,7 @@ import com.netflix.loadbalancer.Server;
 
 /**
  * 图图服务实例
- *
+ * good job
  * @author derek(易仁川)
  * @date 2022/3/13
  */
